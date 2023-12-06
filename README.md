@@ -2,8 +2,8 @@
 
 <p align="center">I'm a 16 year old high school student, attending Lovassy László Secondary School. On my profile you can find my FiveM and Front-end projects, feel free to learn from them. If you don't understand something, feel free to ask me on my Discord Server, or check one of my videos.</p>
 
-- 🔭 I’m currently working on: <b>Portfolio for Korona Roleplay EMS</b>
-- 🌱 I’m currently learning: <b>React</b>
+- 🔭 I’m currently working on: <b>Nothing</b>
+- 🌱 I’m currently learning: <b>React/React Native</b>
 - 💬 Ask me about <b>FiveM Development and HTML&CSS</b>
 - 📫 How to reach me: <b>My Discord Server</b>
 - 😄 Pronouns: <b>He/Him</b>
