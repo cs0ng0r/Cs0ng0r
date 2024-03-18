@@ -37,7 +37,3 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CsokiHUN&layout=compact&theme=dark" />
 </p>
-<h4 align="center">Discord</h4>
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/461511376372891678.png" />
-</p>
