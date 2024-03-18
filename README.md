@@ -2,7 +2,7 @@
 
 <p align="center">I'm a 16 year old high school student, attending Lovassy László Secondary School. Self taught Lua and Web Developer</p>
 
-- 🔭 I’m currently working on: <b>FiveM NUI Dashboard</b>
+- 🔭 I’m currently working on: <b>FiveM HUD</b>
 - 🌱 I’m currently learning: <b>C++</b>
 - 💬 Ask me about <b>FiveM Development and Web Development</b>
 - 📫 How to reach me: <b>My Discord Server</b>
