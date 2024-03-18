@@ -32,8 +32,8 @@
 </p>
 <h4 align="center">Stats</h4>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CsokiHUN&hide=html,css&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs0ng0r&hide=html,css&layout=compact&theme=dark" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CsokiHUN&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cs0ng0r&layout=compact&theme=dark" />
 </p>
