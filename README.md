@@ -1,14 +1,12 @@
 <h3 align ="center"> <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="22"/> Hello there! </h3>
 
 <p align="center">I'm a 16 year old high school student, attending Lovassy László Secondary School. Self taught Lua and Web Developer</p>
-<p align="center">
-- 🔭 I’m currently working on: <b>FiveM HUD</b>
-- 🌱 I’m currently learning: <b>C++</b>
+
+- 🔭 I’m currently working on: <b>Smaller Lua Projects</b>
+- 🌱 I’m currently learning: <b>C++, React</b>
 - 💬 Ask me about <b>FiveM Development and Web Development</b>
-- 📫 How to reach me: <b>My Discord Server</b>
-- 😄 Pronouns: <b>He/Him</b>
-- ⚡ Fun fact: <b>I love scuba diving and I love sharks</b>
-</p>
+- 📫 How to reach me: <b>By my Discord or through email</b>
+
 
 <h4 align="center">I use these: </h4>
 <p align="center">
