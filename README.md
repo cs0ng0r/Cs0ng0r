@@ -37,5 +37,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cs0ng0r&layout=compact&theme=dark" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utelagazkodas&theme=tokyonight" alt="mystreak"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cs0ng0r&theme=tokyonight" alt="mystreak"/> 
 </p>
