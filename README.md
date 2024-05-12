@@ -3,7 +3,7 @@
 <p align="center">I'm a 16 year old high school student, attending Lovassy László Secondary School. Self taught Lua and Web Developer</p>
 
 - 🔭 I’m currently working on: <b>Smaller Lua Projects</b>
-- 🌱 I’m currently learning: <b>C++, React</b>
+- 🌱 I’m currently learning: <b>C++, Python</b>
 - 💬 Ask me about <b>FiveM Development and Web Development</b>
 - 📫 How to reach me: <b>By my Discord or through email</b>
 
