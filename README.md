@@ -36,3 +36,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cs0ng0r&theme=tokyonight" alt="mystreak"/> 
 </p>
+
+
+
+_CsokiHUN inspirálta ezt a ReadME-t_
