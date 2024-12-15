@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: <b>Lua Projects for FiveM</b>
 - 💬 My main interests are in <b>FiveM Development and Web Development</b>
-- 📫 You can reach me by <b> my [Discord Server](discord.gg/MEzjFaURr7)</b>
+- 📫 You can reach me by <b> my [Discord Server](https://discord.com/invite/MEzjFaURr7)</b>
 
 
 <h4 align="center">I use these: </h4>
