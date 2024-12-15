@@ -1,10 +1,10 @@
 <h3 align ="center"> <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="22"/> Hello there! </h3>
 
-<p align="center">I'm a 16 year old high school student, attending Lovassy László Secondary School. Self taught Lua and Web Developer</p>
+<p align="center">I'm a 17 year old high school student, attending Lovassy László Secondary School. Self taught Lua and Web Developer</p>
 
-- 🔭 I’m currently working on: <b>Smaller Lua Projects for FiveM</b>
-- 💬 Ask me about <b>FiveM Development and Web Development</b>
-- 📫 How to reach me: <b>Through my Discord Server</b>
+- 🔭 I’m currently working on: <b>Lua Projects for FiveM</b>
+- 💬 My main interests are in <b>FiveM Development and Web Development</b>
+- 📫 You can reach me by <b> my [Discord Server](discord.gg/MEzjFaURr7)</b>
 
 
 <h4 align="center">I use these: </h4>
