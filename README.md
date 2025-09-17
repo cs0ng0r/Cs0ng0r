@@ -7,13 +7,6 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on: **Lua projects for FiveM**
-- 💻 Interested in: **FiveM Development** & **Web Development**
-- 📫 Reach me on: [Discord Server](https://discord.com/invite/MEzjFaURr7)
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <!-- Core -->
@@ -23,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+[  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="SVELTE" width="40" height="40"/>](https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg)
 </p>
 
 ---
@@ -32,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL" width="40" height="40"/>
+   <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40">
 </p>
 
 ---
@@ -53,7 +48,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cs0ng0r&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
----
-
-<p align="center">✨ Always learning, always building ✨</p>
