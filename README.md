@@ -1,42 +1,59 @@
-<h3 align ="center"> <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="22"/> Hello there! </h3>
-
-<p align="center">I'm a 17 year old high school student, attending Lovassy László Secondary School. Self taught Lua and Web Developer</p>
-
-- 🔭 I’m currently working on: <b>Lua Projects for FiveM</b>
-- 💬 My main interests are in <b>FiveM Development and Web Development</b>
-- 📫 You can reach me by <b> my [Discord Server](https://discord.com/invite/MEzjFaURr7)</b>
-
-
-<h4 align="center">I use these: </h4>
+<!-- Banner / Greeting -->
+<h1 align="center">👋 Hey there, I'm Cs0ng0r</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</p>
-<h4 align="center">Development environment:</h4>
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="heidisql" width="40" height="40"/>
-</p>
-<h4 align="center">Used it Before</h4>
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-<h4 align="center">Stats</h4>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs0ng0r&hide=html,css&layout=compact&theme=dark" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cs0ng0r&layout=compact&theme=dark" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cs0ng0r&theme=tokyonight" alt="mystreak"/> 
+  <em>17 y/o high school student at <b>Lovassy László Secondary School</b></em><br>
+  <em>Self-taught <b>Lua</b> & <b>Web Developer</b></em>
 </p>
 
+---
 
+### 🚀 About Me
+- 🔭 Currently working on: **Lua projects for FiveM**
+- 💻 Interested in: **FiveM Development** & **Web Development**
+- 📫 Reach me on: [Discord Server](https://discord.com/invite/MEzjFaURr7)
 
-_CsokiHUN inspirálta ezt a ReadME-t_
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</p>
+
+---
+
+### 💻 Development Environment
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL" width="40" height="40"/>
+</p>
+
+---
+
+### 🧩 Other Experience
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs0ng0r&hide=html,css&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cs0ng0r&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cs0ng0r&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">✨ Always learning, always building ✨</p>
